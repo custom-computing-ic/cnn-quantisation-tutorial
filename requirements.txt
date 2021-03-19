@@ -13,7 +13,7 @@ hgapi==1.7.2
 idna==2.6
 intelhex==2.1
 ipaddress==1.0.18
-Jinja2==2.9.6
+Jinja2==2.11.3
 jsonpointer==1.12
 jsonschema==2.6.0
 MarkupSafe==1.0
