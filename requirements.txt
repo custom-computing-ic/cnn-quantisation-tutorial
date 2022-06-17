@@ -18,7 +18,7 @@ jsonpointer==1.12
 jsonschema==2.6.0
 MarkupSafe==1.0
 mbed-test-wrapper==1.0.0
-numpy==1.11.0
+numpy==1.21.0
 pathlib==1.0.1
 project-generator==0.8.16
 project-generator-definitions==0.2.35
